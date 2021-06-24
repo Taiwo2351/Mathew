@@ -1,0 +1,17 @@
+ section {
+ margin: auto;
+ width: 960px;
+}
+
+
+h4{
+ border: 20px solid blue;
+ padding:20px;
+ text-align: left;
+}
+
+p{
+ padding: 20px;
+ text-align: center;
+ color: red;
+}
